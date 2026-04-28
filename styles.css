@@ -1,0 +1,77 @@
+body {
+
+button {
+  border: none;
+  padding: 10px 14px;
+  margin: 4px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+button:hover {
+  transform: translateY(-1px);
+}
+
+main {
+  padding: 24px;
+}
+
+.menu-screen,
+.episode-screen {
+  background: rgba(255,255,255,0.07);
+  padding: 20px;
+  border-radius: 18px;
+  max-width: 1000px;
+  margin: auto;
+}
+
+.cast-list,
+.selected-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 14px 0;
+}
+
+.cast-list button,
+.selected-list button {
+  background: #7c4dff;
+  color: white;
+}
+
+.start-btn {
+  background: #00c853;
+  color: white;
+  font-size: 18px;
+  padding: 14px 22px;
+}
+
+input, select {
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+  margin: 6px 0;
+}
+
+.episode-log {
+  background: rgba(0,0,0,0.25);
+  padding: 16px;
+  border-radius: 14px;
+  margin: 18px 0;
+}
+
+.placements {
+  margin-top: 20px;
+  background: rgba(255,255,255,0.05);
+  padding: 14px;
+  border-radius: 14px;
+}
+
+.remaining-cast span {
+  display: inline-block;
+  background: #ff4081;
+  padding: 6px 10px;
+  margin: 4px;
+  border-radius: 999px;
+}
