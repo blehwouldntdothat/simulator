@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Aiden",
+    "image": "images/aiden.png",
+    "stats": {"strength": 8, "agility": 7, "stamina": 6, "social": 5, "puzzle": 4},
+    "traits": ["Athletic", "Competitive"],
+    "introLines": ["I'm here to dominate.", "No fear, all game."],
+    "exitLines": ["I'll be back.", "You got lucky."]
+  },
+  {
+    "name": "Luna",
+    "image": "images/luna.png",
+    "stats": {"strength": 3, "agility": 6, "stamina": 5, "social": 9, "puzzle": 8},
+    "traits": ["Strategist", "Charismatic"],
+    "introLines": ["Brains beats brawn.", "Watch every move I make."],
+    "exitLines": ["Bad read from me.", "Respect the move."]
+  },
+  {
+    "name": "Marcus",
+    "image": "images/marcus.png",
+    "stats": {"strength": 9, "agility": 5, "stamina": 8, "social": 4, "puzzle": 3},
+    "traits": ["Powerhouse"],
+    "introLines": ["Built for challenges.", "Try stopping me."],
+    "exitLines": ["Should've beaten me earlier.", "I'll hit the gym."]
+  },
+  {
+    "name": "Jade",
+    "image": "images/jade.png",
+    "stats": {"strength": 4, "agility": 7, "stamina": 6, "social": 8, "puzzle": 7},
+    "traits": ["Great Singer", "Loyal"],
+    "introLines": ["I came to shine.", "Let's make good TV."],
+    "exitLines": ["Still iconic.", "At least I looked good."]
+  },
+  {
+    "name": "Theo",
+    "image": "images/theo.png",
+    "stats": {"strength": 5, "agility": 4, "stamina": 3, "social": 7, "puzzle": 9},
+    "traits": ["Genius", "Asthmatic"],
+    "introLines": ["Numbers never lie.", "Chaos is predictable."],
+    "exitLines": ["Statistically tragic.", "Variance got me."]
+  }
+]
